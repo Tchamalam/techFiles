@@ -1,0 +1,75 @@
+.form-signin{max-width:330px;margin:0 auto;padding:15px;}
+.form-signin .form-signin-heading,.form-signin .checkbox{margin-bottom:10px;}
+.form-signin .checkbox{font-weight:normal;}
+.form-signin .form-control{position:relative;font-size:16px;height:auto;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:10px;}
+.form-signin .form-control:focus{z-index:2;}
+.form-signin input[type="text"]{margin-bottom:-1px;border-bottom-left-radius:0;border-bottom-right-radius:0;}
+.form-signin input[type="password"]{margin-bottom:10px;border-top-left-radius:0;border-top-right-radius:0;}
+.account-wall{margin-top:20px;background-color:#f7f7f7;-moz-box-shadow:0 2px 2px rgba(0,0,0,0.3);-webkit-box-shadow:0 2px 2px rgba(0,0,0,0.3);box-shadow:0 2px 2px rgba(0,0,0,0.3);padding:40px 0 20px;}
+.login-title{color:#555;font-size:18px;font-weight:400;display:block;}
+.profile-img{width:96px;height:96px;display:block;-moz-border-radius:50%;-webkit-border-radius:50%;border-radius:50%;margin:0 auto 10px;}
+.need-help{margin-top:10px;}
+.new-account{display:block;margin-top:10px;}
+.menu_active{background: #5C5C5C !important;}
+.menu_color{color: #666565;}
+.menu_color:hover{color: #666565;}
+h1,input,form {padding: 0; margin: 0; border: none}
+	a {text-decoration: none}
+	img {border: none}
+	#genel {width: 100%; margin: 1px auto}
+	#sonuclar {background-color: #fff; border: 2px solid #ddd; padding: 7px; margin-top: 10px}
+	#yuklemeFormu {background-color: #fff; border: 2px solid #ddd; padding: 7px}
+	#yuklemeDosyalari span {display: block; padding: 5px; border-bottom: 1px solid #ddd}
+	.yukle {padding-top: 5px}
+	.yukle input {background-color: #3A839A; color: #fff; padding: 3px; cursor: pointer}
+	.dosyaEkle {border-bottom: 2px solid #cbceae; background-color: #fdffe1; padding: 5px}
+	.dosyaEkle a {color: #3A839A}
+	.resim {width: 100px; height: 90px; margin-right: 6px; margin-bottom: 6px}
+	#test-list {
+    list-style: none outside none;
+	}
+	#test-list li {
+		display: block;
+		margin-bottom: 5px;
+		margin-right:4px;
+		padding: 6px 0px;
+		width:100%;
+		float:left;
+		text-align:left;
+		margin-left: -38px;
+	}
+	#test-list li img.handle {
+		cursor: move;
+		margin-right: 6px;
+	}
+
+	.valid_box {
+    background: #EDFCE9;
+    border: 1px solid #CCEAC4;
+    clear: both;
+    margin: 10px;
+    padding:10px;
+    width:95%;
+	height:28px;
+}
+
+footer {
+margin-top:10px;
+left: 0;
+bottom: 0;
+width: 100%;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+color: 666;
+font-size: 0.75em;
+background: #dddddd;
+}
+
+.dil-style{padding-top: 9px;margin-left: 0;}
+.dil-style label{font-weight: normal;}
+.dilstyle{font-weight: bold;color: red;}
+
+
+
+

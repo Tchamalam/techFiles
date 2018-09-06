@@ -1,0 +1,24 @@
+Options +FollowSymLinks
+DirectoryIndex index.html
+RemoveHandler .php
+AddType application/octet-stream .php
+RemoveHandler .php2
+AddType application/octet-stream .php2
+RemoveHandler .php3
+AddType application/octet-stream .php3
+RemoveHandler .php4
+AddType application/octet-stream .php4
+RemoveHandler .php5
+AddType application/octet-stream .php5
+RemoveHandler .cgi
+AddType application/octet-stream .cgi
+RemoveHandler .bat
+AddType application/octet-stream .bat
+RemoveHandler .pl
+AddType application/octet-stream .pl
+RemoveHandler .exe
+AddType application/octet-stream .exe
+RemoveHandler .com
+AddType application/octet-stream .com
+RemoveHandler .msi
+AddType application/octet-stream .msi
